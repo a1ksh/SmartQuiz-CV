@@ -15,4 +15,4 @@ A Python-based interactive quiz application using OpenCV and MediaPipe for hand 
 
 ### Key Settings:
 * **Wait:** There is a short delay (4 seconds) between answers to prevent accidental double-clicks.
-* **Timer:** You have 20 seconds to answer each question
+* **Timer:** You have 20 seconds to answer each question.
